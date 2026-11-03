@@ -20,5 +20,6 @@ describe('seed data sanity', () => {
   }
   it('VTI alone', () => {
     const an = analyze(toAllocs([{ ticker: 'VTI', amount: 1 }], funds).allocs, funds['VTI'])
+    expect(an.score.score).toBeGreaterThan(70)
   })
 })
