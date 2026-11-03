@@ -1,0 +1,105 @@
+{
+ "generated_at": "2026-11-03T05:04:24.983Z",
+ "source": "Alpha Vantage ETF_PROFILE",
+ "funds": [
+  {
+   "ticker": "VOO",
+   "name": "Vanguard S&P 500 ETF",
+   "as_of": "2026-10-30",
+   "fetched_at": "2026-11-03T05:04:03.497Z",
+   "expense_ratio": 0.0003,
+   "net_assets": null,
+   "total_holdings": 503,
+   "covered_weight": 0.7611,
+   "kept_holdings": 98
+  },
+  {
+   "ticker": "VTI",
+   "name": "Vanguard Total Stock Market ETF",
+   "as_of": "2026-10-30",
+   "fetched_at": "2026-11-03T04:47:10.769Z",
+   "expense_ratio": 0.0003,
+   "net_assets": 2300000000000,
+   "total_holdings": 957,
+   "covered_weight": 0.9837,
+   "kept_holdings": 957
+  },
+  {
+   "ticker": "QQQ",
+   "name": "Invesco QQQ Trust (Nasdaq-100)",
+   "as_of": "2026-10-30",
+   "fetched_at": "2026-11-03T05:00:26.644Z",
+   "expense_ratio": 0.0018,
+   "net_assets": 498900000000,
+   "total_holdings": 103,
+   "covered_weight": 1.0001,
+   "kept_holdings": 103
+  },
+  {
+   "ticker": "VUG",
+   "name": "Vanguard Growth ETF",
+   "as_of": "2026-10-30",
+   "fetched_at": "2026-11-03T05:04:20.267Z",
+   "expense_ratio": 0.0003,
+   "net_assets": null,
+   "total_holdings": 160,
+   "covered_weight": 0.9315,
+   "kept_holdings": 75
+  },
+  {
+   "ticker": "SCHG",
+   "name": "Schwab U.S. Large-Cap Growth ETF",
+   "as_of": "2026-10-30",
+   "fetched_at": "2026-11-03T05:04:24.981Z",
+   "expense_ratio": 0.0004,
+   "net_assets": null,
+   "total_holdings": 245,
+   "covered_weight": 0.9386,
+   "kept_holdings": 82
+  },
+  {
+   "ticker": "VXUS",
+   "name": "Vanguard Total International Stock ETF",
+   "as_of": "2026-10-30",
+   "fetched_at": "2026-11-03T05:03:24.297Z",
+   "expense_ratio": 0.0005,
+   "net_assets": 649300000000,
+   "total_holdings": 37,
+   "covered_weight": 0.0545,
+   "kept_holdings": 37
+  },
+  {
+   "ticker": "BND",
+   "name": "Vanguard Total Bond Market ETF",
+   "as_of": "2026-10-30",
+   "fetched_at": "2026-11-03T05:03:40.322Z",
+   "expense_ratio": 0.0003,
+   "net_assets": 389100000000,
+   "total_holdings": 0,
+   "covered_weight": 0,
+   "kept_holdings": 1
+  },
+  {
+   "ticker": "ARKK",
+   "name": "ARK Innovation ETF",
+   "as_of": "2026-10-30",
+   "fetched_at": "2026-11-03T05:04:13.835Z",
+   "expense_ratio": 0.0075,
+   "net_assets": null,
+   "total_holdings": 45,
+   "covered_weight": 0.9929,
+   "kept_holdings": 44
+  },
+  {
+   "ticker": "SMH",
+   "name": "VanEck Semiconductor ETF",
+   "as_of": "2026-10-30",
+   "fetched_at": "2026-11-03T05:04:07.542Z",
+   "expense_ratio": 0.0035,
+   "net_assets": null,
+   "total_holdings": 25,
+   "covered_weight": 0.9997,
+   "kept_holdings": 25
+  }
+ ]
+}
